@@ -3,8 +3,7 @@
  *
  */
 function add (a, b) {
-  const c = a + b
-  return c
+  return a + b
 }
 
 console.log(add(3, 2)) // 5

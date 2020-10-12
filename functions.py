@@ -2,8 +2,7 @@
 functions.py
 '''
 def add (a, b):
-    c = a + b
-    return c
+    return a + b
 
 if __name__ == "__main__":
     print(add(2, 3)) # 5
